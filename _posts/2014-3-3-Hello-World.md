@@ -1,10 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: Hello World
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+안녕하세요?   
+제주대학교 컴퓨터교육과에 재학중인 김나영입니다.   
+저에 대한 정보는 홈페이지 상단 우측에 "[About](https://eve-lover.github.io/about/)"을 참고해주세요.   
