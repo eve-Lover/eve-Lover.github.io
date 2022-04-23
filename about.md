@@ -4,6 +4,7 @@ title: Profile
 permalink: /about/
 ---
 
+
 ### Job
 - (2021.03 ~ ) 제주대학교 사범대학 컴퓨터교육과 학부생
 - (2021.09 ~ ) 제주대학교 SW라운지 멘토   
@@ -25,6 +26,7 @@ permalink: /about/
         <li><a href="https://www.instagram.com/p/CbuZx_fr5ap/?utm_source=ig_web_copy_link" target="_blank"> API 알아보기 </a>
         <li><a href="https://www.instagram.com/p/CcIOG-oLsgi/?utm_source=ig_web_copy_link">Flutter 알아보기</a>
       </ul>
+  </ul>
 </div>
 </details>
     
