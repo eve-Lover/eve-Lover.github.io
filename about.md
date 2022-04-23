@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+ㄴ나의 프로필
 
 ### More Information
 
