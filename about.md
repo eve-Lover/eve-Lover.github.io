@@ -85,6 +85,5 @@ AI-based Kiosk App for the Blind
 
 <hr>
 
-### Contact me
+### Repositories of interest
 
-[email@domain.com](mailto:nayy6947@gmail.com)
