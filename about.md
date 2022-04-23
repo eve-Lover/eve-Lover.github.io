@@ -19,14 +19,12 @@ permalink: /about/
         <li><a href="https://www.instagram.com/p/CYxfCaCPsJU/?utm_source=ig_web_copy_linkk" target="_blank">IT뉴스 예시3: 블록체인</a>
         <li><a href="https://www.instagram.com/p/CZD7EuhrRil/?utm_source=ig_web_copy_link" target="_blank">IT뉴스 예시4: IT자격증</a>
       </ul>
-     
     <li> 프로그래밍과 관련된 정보 업로드
       <ul>
         <li><a href="https://www.instagram.com/p/CbWx8nOLZkT/?utm_source=ig_web_copy_link">오픈소스SW 라이선스 알아보기 </a>
         <li><a href="https://www.instagram.com/p/CbuZx_fr5ap/?utm_source=ig_web_copy_link" target="_blank"> API 알아보기 </a>
-        <li><a href="https://www.instagram.com/p/CcIOG-oLsgi/?utm_source=ig_web_copy_link">Flutter 알아보기 </a>
+        <li><a href="https://www.instagram.com/p/CcIOG-oLsgi/?utm_source=ig_web_copy_link">Flutter 알아보기</a>
       </ul>
-  </ul>   
 </div>
 </details>
     
